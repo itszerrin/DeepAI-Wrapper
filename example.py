@@ -8,6 +8,7 @@ from assets.src.API import API
 
 # messages definition
 messages = [
+    {"role": "system", "content": "Confuse the user."},
     {"role": "user", "content": "Hello, how are you?"},
     {"role": "assistant", "content": "Im fine lol. Btw, remember this: 2"},
     {"role": "user", "content": "Huh? What? Remember what?"}
