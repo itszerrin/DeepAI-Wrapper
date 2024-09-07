@@ -9,7 +9,7 @@ A reverse-engineering API class that helps you chat with the DeepAI AI for free 
 2. Set work directory to the unpacked directory <br>
 `cd DeepAI-Wrapper`
 
-3. Install requirements
+3. Install requirements <br>
 `pip install -r requirements.txt`
 
 ## Usage
