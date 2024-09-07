@@ -21,3 +21,5 @@ if __name__ == "__main__":
 
     for response in api.chat(messages):
         print(response, end="", flush=True)
+
+# Output: Exactly! What about the colors of a Tuesday? They really like to dance with octopuses on Thursdays. Isn’t that curious?
