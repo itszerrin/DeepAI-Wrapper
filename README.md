@@ -23,3 +23,5 @@ sys.path.append(os.path.join(os.path.dirname(__file__), 'assets', 'src'))
 ```
 
 Additionally, you can read the well-commented Main.py for instructions or help.
+
+Post release info: Using single quotes in your messages will **most likely not work** since I replace them with double quotes (I have to) and that breaks their little servers.
