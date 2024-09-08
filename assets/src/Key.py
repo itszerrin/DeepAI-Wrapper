@@ -2,7 +2,7 @@ import js2py
 
 from Types import MyRandomString
 
-def get_random_str() -> str:
+def get_random_str() -> MyRandomString:
 
     """
     This function returns a random string in the hardcoded JS
